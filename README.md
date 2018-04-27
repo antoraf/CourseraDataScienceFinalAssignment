@@ -15,9 +15,9 @@ For this project, i prepared and submitted:
 
 This repository contains the ui.R and server.R files for the developed Shiny Application as well as the RStudio Presenter files for the Data Science Capstone Course Project.
 
-The developed Shiny app for the the assignment is available at: 
+The developed Shiny app for the the assignment is available at: https://antoraf.shinyapps.io/CourseraDataScienceFinalAssignment/
 
-The pitch presentation is available at: 
+The pitch presentation is available at: http://rpubs.com/antoraf/FinalAssignment
 
 The source coude files and presentation files are available on the GitHub repo: 
 
