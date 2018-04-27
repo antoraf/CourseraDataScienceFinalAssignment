@@ -1,0 +1,12 @@
+name: CourseraDataScienceFinalAssignment
+title: CourseraDataScienceFinalAssignment
+username:
+account: antoraf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 330454
+bundleId: 1339750
+url: https://antoraf.shinyapps.io/CourseraDataScienceFinalAssignment/
+when: 1524698616.71835
+asMultiple: FALSE
+asStatic: FALSE
